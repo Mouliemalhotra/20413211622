@@ -6,7 +6,8 @@ A full-stack application to shorten URLs, track their usage statistics, and prov
 
 ## 📸 Screenshot
 
-![App Screenshot](./assets/screenshot.png)
+![Screenshot 2025-07-08 125220](https://github.com/user-attachments/assets/2326d5f8-d8fe-4acf-8073-62136913ce0c)
+
 
 ---
 
